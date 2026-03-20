@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloco de Notas Simples</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bloco de Notas</h1>
+        <form id="note-form">
+            <textarea id="note-input" placeholder="Escreva sua nota aqui..." required></textarea>
+            <button type="submit">Adicionar Nota</button>
+            <button type="button" id="cancel-edit" style="display:none;">Cancelar Edição</button>
+        </form>
+        <ul id="notes-list"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
