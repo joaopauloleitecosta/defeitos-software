@@ -34,7 +34,7 @@ Assista à aula completa aqui: [https://youtu.be/xXBez5yhn9U?si=PZLc5HTApFGE8Mz8
 
 ## Como Executar a Aplicação
 
-1. Clique no botão verde "Code" e depois em "Download ZIP".
+1. Para baixar o projeto, clique no botão verde "Code" localizado nesta página e depois em "Download ZIP".
 2. Após o download, localize o arquivo ZIP na sua pasta de downloads e extraia o conteúdo (clique com o botão direito e escolha "Extrair tudo").
 3. Abra a pasta extraída (ela se chama `aula-02`).
 4. Procure pelo arquivo chamado `index.html` dentro dessa pasta.
