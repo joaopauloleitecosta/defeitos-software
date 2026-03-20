@@ -32,6 +32,18 @@ Este projeto foi desenvolvido para a aula sobre defeitos de software ministrada 
 
 Assista à aula completa aqui: [https://youtu.be/xXBez5yhn9U?si=PZLc5HTApFGE8Mz8](https://youtu.be/xXBez5yhn9U?si=PZLc5HTApFGE8Mz8)
 
+## Como Executar a Aplicação
+
+1. Clique no botão verde "Code" e depois em "Download ZIP".
+2. Após o download, localize o arquivo ZIP na sua pasta de downloads e extraia o conteúdo (clique com o botão direito e escolha "Extrair tudo").
+3. Abra a pasta extraída (ela se chama `aula-02`).
+4. Procure pelo arquivo chamado `index.html` dentro dessa pasta.
+5. Clique duas vezes no arquivo `index.html`.
+6. O navegador de internet (como Chrome, Edge ou Firefox) será aberto automaticamente mostrando a tela do bloco de notas.
+7. Agora você pode adicionar, editar e excluir notas diretamente na página.
+
+Pronto! Não é necessário instalar nada ou ter conhecimentos técnicos. Basta abrir o arquivo e usar.
+
 ---
 
 **Desenvolvido para fins educacionais.**
