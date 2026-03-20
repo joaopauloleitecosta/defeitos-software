@@ -20,6 +20,12 @@ Esta aplicação web simula um bloco de notas, permitindo ao usuário adicionar,
 >
 > Ao excluir uma nota, pode ocorrer um comportamento inesperado, como exclusão incorreta ou falha na atualização da lista. Este defeito foi mantido intencionalmente para ser utilizado como exemplo didático em sala de aula.
 
+## Screenshots
+
+Veja abaixo uma captura de tela da aplicação:
+
+![Bloco de Notas - Screenshot](notas.png)
+
 ## Contexto Didático
 
 Este projeto foi desenvolvido para a aula sobre defeitos de software ministrada por Julio de Lima. O objetivo é mostrar, na prática, como defeitos podem surgir e como identificá-los/testá-los.
